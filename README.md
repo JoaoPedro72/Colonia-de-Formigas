@@ -1,8 +1,8 @@
 # *Trabalho Colônia de Formigas*
 ## da Materia de Inteligencia Artificial
-## Mebros: Gabriel Jovenal
-##         Bryan Felipe
-##         João Pedro da Silva Alves
+Mebros: Gabriel Jovenal
+        Bryan Felipe
+        João Pedro da Silva Alves
 
 O objetivo deste trabalho é implementar e analisar o comportamento do algoritmo de Otimização por Colônia de Formigas ao resolver uma instância do Problema do Caixeiro Viajante composta por 20 cidades, focando na sensibilidade do algoritmo aos seus parâmetros principais.
 
